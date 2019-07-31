@@ -1,0 +1,2 @@
+# TypeScript-Exercism
+Learning TypeScript :) 
